@@ -14,6 +14,7 @@ public class Main {
         var var3 = 0;
         var var4 = 0.0;
         String h1, h2;
+        System.out.println();
 
         h1 = "---------Entrada de dados----------";
         h2 = "---------Saida de dados------------";
